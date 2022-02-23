@@ -1,4 +1,4 @@
-### Controle Financeiro
+### Controle Financeiro 💰
 
 Esse foi um projeto criado acompanhando os vídeos da RocketSeat na Maratona Discover.
 Esse projeto foi muito importante para mim, a didática do Mayk Brito (Integrante da Rocketseat que conduziu a maratona) é realmente muito esclarecedora,
