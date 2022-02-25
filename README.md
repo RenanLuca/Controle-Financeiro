@@ -12,7 +12,7 @@ a lógica para tratar as situações, não aprendi apenas código nessa maratona
 <ul>
   <li> HTML 5 </li>
   <li> CSS 3 </li>
-  <li> Java Script </li>
+  <li> JavaScript </li>
 </ul>
 
 
